@@ -25,3 +25,5 @@ spec:
   selector:
     app: prometheus
   type: LoadBalancer
+  externalIPs:
+  - 192.168.49.2
